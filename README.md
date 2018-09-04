@@ -1,5 +1,6 @@
 # HKEX-web-scraping
-HKEX.py is a piece of code which helps to scrape data from the official website of Hong Kong Stock Exchange(HKEX)from the following 3 urls. 
+HKEX.py is a Python script that helps the users to scrape stock trading data from the official website of Hong Kong Stock Exchange(HKEX) using beau. 
+
 http://www.hkexnews.hk/sdw/search/mutualmarket.aspx?t=hk
 http://www.hkexnews.hk/sdw/search/mutualmarket.aspx?t=sz
 http://www.hkexnews.hk/sdw/search/mutualmarket.aspx?t=sh.
